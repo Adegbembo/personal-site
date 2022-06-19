@@ -44,7 +44,7 @@ a {
 input {
     display: block;
     margin: 20px 0 0;
-    width: 200px;
+    width: 160px;
     box-sizing: border-box;
     padding: 4px 8px;
     border-width: 1px; 
@@ -72,5 +72,5 @@ button {
     margin: 8px 0;
     cursor: pointer;
     font-family: var(--font);
-    width: 250px;
+    width: 160px;
 }
